@@ -1,9 +1,10 @@
 
+#Manual
 File Opener is a mini software that can run multiple applications at a time that can be set at once. 
 
 It can be used to open softwares of our daily needs all at once without having to open each software one by one.
 
-Process :
+##Process :
 
 Step 1-  Select the ".exe files/ Applications" that you need to open all together at a time regularly.
 
