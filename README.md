@@ -1,6 +1,6 @@
 # Software Opener
 
-QuickRun is a GUI application that allows you to run multiple applications simultaneously. You can select your desired applications beforehand, and Software Opener will run them all for you at once. This saves you time and hassle from having to open each application separately.
+Software Opener is a GUI application that allows you to run multiple applications simultaneously. You can select your desired applications beforehand, and Software Opener will run them all for you at once. This saves you time and hassle from having to open each application separately.
 
 ## Features
 
