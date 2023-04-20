@@ -1,4 +1,10 @@
 # Software Opener
+![GitHub top language](https://img.shields.io/github/languages/top/shihabmuhtasim/Software-Opener-?color=f5f5dc) 
+![GitHub language count](https://img.shields.io/github/languages/count/shihabmuhtasim/Software-Opener-?color=f5f5dc) 
+![GitHub last commit](https://img.shields.io/github/last-commit/shihabmuhtasim/Software-Opener-?color=f5f5dc) 
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/shihabmuhtasim/Software-Opener-?color=f5f5dc)
+![GitHub repo size](https://img.shields.io/github/repo-size/shihabmuhtasim/Software-Opener-?color=f5f5dc)
+![GitHub watchers](https://img.shields.io/github/watchers/shihabmuhtasim/Software-Opener-?style=social)
 
 Software Opener is a GUI application that allows you to run multiple applications simultaneously. You can select your desired applications beforehand, and Software Opener will run them all for you at once. This saves you time and hassle from having to open each application separately.
 
