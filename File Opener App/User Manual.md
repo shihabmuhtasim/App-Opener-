@@ -1,4 +1,3 @@
-
 #Manual
 File Opener is a mini software that can run multiple applications at a time that can be set at once. 
 
@@ -15,7 +14,6 @@ Step 3- Close the app and come back to the app after closing all your selected a
 Step 4- Only hit Run and it will automatically open your last saved apps.
 
 step 5- To reset the saved apps, delete the text file created in this app's directory when ran the app for the first time.
-
 
 Enjoy !! If you like the app. Please leave a star at my github repos !!
  
