@@ -28,5 +28,6 @@ step 5- To reset the saved apps, delete the text file created in this app's dire
 ## Contribution
 
 Contributions to this project are welcome. If you find any issues or have any suggestions, feel free to create an issue or pull request.
-![NUMERICAL METHODS(1)](https://user-images.githubusercontent.com/92597456/233444806-6257599e-1096-4b55-8050-9954c1c863a3.png)
+![NUMERICAL METHODS (1)](https://user-images.githubusercontent.com/92597456/233445331-1ba433c6-2ce1-41ba-8f4a-fefebd54710b.png)
+
 
